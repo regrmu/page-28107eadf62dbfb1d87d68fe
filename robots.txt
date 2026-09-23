@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kingjichang.com/sitemap.xml
